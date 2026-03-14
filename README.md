@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:00bfff&height=200&section=header&text=Shreya%20Shenoy&fontSize=45&fontColor=00ffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,100:004e92&height=300&text=Shreya%20Shenoy&fontSize=60&fontColor=00eaff&animation=twinkling&stroke=00eaff&strokeWidth=2"/>
 </p>
 
 <!--
