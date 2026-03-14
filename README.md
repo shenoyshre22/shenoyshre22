@@ -29,7 +29,7 @@ i enjoy building things that feel a little bit magical, something that could be 
 ## tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,MERN,git,linux"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,react,mongodb,node,express,git,linux"/>
 </p>
 
 
