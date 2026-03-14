@@ -11,7 +11,7 @@ check this out :p
 
 </p>
 
-<img src="assets/WalkingDog.gif" width="90">
+<img src="assets/WalkingDog.gif" width="150">
 
 ## hi there 👋
 
