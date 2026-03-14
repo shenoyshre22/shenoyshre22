@@ -1,0 +1,22 @@
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.dog {
+  animation: run 6s linear infinite alternate;
+}
+
+@keyframes run {
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(700px); }
+}
+</style>
+
+<image
+  class="dog"
+  href="assets/WalkingDog.gif"
+  height="80"
+  width="80"
+  y="20"
+/>
+
+</svg>
