@@ -1,5 +1,5 @@
 <p align="center">
-
+you can find the links to my linkedin and leetcode here !
 <a href="https://www.linkedin.com/in/shreya-shenoy-041098346/">
 <img src="https://img.shields.io/badge/linkedin-00A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
