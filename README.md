@@ -12,7 +12,11 @@ check this out :p
 </p>
 
 <p align="center">
-<img src="assets/dog-run.svg" width="100%">
+<marquee behavior="alternate" scrollamount="6">
+
+<img src="assets/WalkingDog.gif" width="80">
+
+</marquee>
 </p>
 
 ## hi there 👋
