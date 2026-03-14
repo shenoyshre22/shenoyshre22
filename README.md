@@ -11,6 +11,8 @@ check this out :p
 
 </p>
 
+<img src="assets/WalkingDog.gif" width="90">
+
 ## hi there 👋
 
 i'm **Shreya Shenoy**, a computer science student exploring the world of game dev, networking, and cybersecurity.
