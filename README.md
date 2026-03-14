@@ -13,7 +13,7 @@ check this out :p
 
 ## hi there 👋
 
-i'm **shreya shenoy**, a computer science student exploring the world of game dev, networking, and cybersecurity.
+i'm **Shreya Shenoy**, a computer science student exploring the world of game dev, networking, and cybersecurity.
 
 i enjoy building things that feel a little bit magical, something that could be counted as "experimental projects" that help me understand how technology works under the hood :))
 
