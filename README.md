@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:00bfff&height=200&section=header&text=Shreya%20Shenoy&fontSize=45&fontColor=00ffff&animation=fadeIn"/>
+</p>
 
 <!--
 **shenoyshre22/shenoyshre22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
