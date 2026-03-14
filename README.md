@@ -14,7 +14,7 @@ check this out :p
 <p align="center">
 <marquee behavior="alternate" scrollamount="6">
 
-<img src="assets/WalkingDog.gif" width="80">
+<img src="assets/WalkingDog.gif" width="200">
 
 </marquee>
 </p>
