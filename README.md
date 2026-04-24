@@ -32,7 +32,7 @@ i enjoy building things that feel a little bit magical, something that could be 
 - currently learning **game dev & socket programming, microservices**
 - offtopic , i love dogs ! and painting , oh and i also love video editing.
 
-## 🏆 achievements
+## open source work 👾
 
 ### girlscript summer of code (gssoc) 2026
 
