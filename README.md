@@ -30,7 +30,7 @@ i enjoy building things that feel a little bit magical, something that could be 
 - 3rd year computer science student
 - interested in **cybersecurity, networking, and game dev**
 - currently learning **competitive programming and utility of edge AI**
-- offtopic , i love dogs ! and painting , oh and i also love video editing.
+- offtopic , i asbolutely love dogs ! and painting , oh and i also love video editing.
 
 ## open source work 👾
 
