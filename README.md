@@ -19,7 +19,7 @@ check this out :p
 </marquee>
 </p>
 
-## hi there 👋
+## hilo :)
 
 i'm **Shreya Shenoy**, a computer science student exploring the world of game dev, networking, and cybersecurity.
 
