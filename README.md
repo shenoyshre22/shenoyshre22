@@ -23,13 +23,13 @@ check this out :p
 
 i'm **Shreya Shenoy**, a computer science student exploring the world of game dev, networking, and cybersecurity.
 
-i enjoy building things that feel a little bit magical, something that could be counted as "experimental projects" that help me understand how technology works under the hood :))
+i enjoy building things that feel a little bit magical like that dog pixel gif that you send above ahem , something that could be counted as "experimental projects" that help me understand how technology works :))
 
 ## about me
 
 - 3rd year computer science student
 - interested in **cybersecurity, networking, and game dev**
-- currently learning **competitive programming and utility of edge AI**
+- currently learning **competitive programming and utility of edge AI**, while actively trying to get better at using hardware
 - offtopic , i absolutely love dogs ! and painting , oh and i also love video editing.
 
 ## open source work 👾
