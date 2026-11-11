@@ -23,7 +23,7 @@ check this out :p
 
 i'm **Shreya Shenoy**, a computer science student exploring the world of game dev, networking, and cybersecurity.
 
-i enjoy building things that feel a little bit magical like that dog pixel gif that you send above ahem , something that could be counted as "experimental projects" that help me understand how technology works :))
+i enjoy building things that feel a little bit magical (like that dog pixel gif that you see above ahem) , something that could be counted as "experimental projects" that help me understand how technology works :))
 
 ## about me
 
